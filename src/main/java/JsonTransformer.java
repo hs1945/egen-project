@@ -11,8 +11,9 @@ public class JsonTransformer implements ResponseTransformer {
     private Gson gson = new Gson();
 
     public String render(Object model) {
-        return gson.toJson(model);
         
+        return gson.toJson(model);
+
         //return gson.toJson(((ResponseWrapper)model).getDelegate().response);
     }
 
