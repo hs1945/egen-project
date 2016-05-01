@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4508afc-11bb-45fc-ace4-b60f1c82b54c" name="Default" comment="" />
+    <list default="true" id="d4508afc-11bb-45fc-ace4-b60f1c82b54c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="egen-project.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,8 +54,8 @@
       <file leaf-file-name="JsonTransformer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/JsonTransformer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <state relative-caret-position="289">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -926,7 +928,7 @@
       <workItem from="1462079640681" duration="5452000" />
       <workItem from="1462085148306" duration="2190000" />
       <workItem from="1462087380081" duration="1472000" />
-      <workItem from="1462089239549" duration="926000" />
+      <workItem from="1462089239549" duration="1764000" />
     </task>
     <task id="LOCAL-00001" summary="delete">
       <created>1462086347329</created>
@@ -956,7 +958,14 @@
       <option name="project" value="LOCAL" />
       <updated>1462090118925</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="demo">
+      <created>1462090867143</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1462090867143</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -992,7 +1001,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48803000" />
+    <option name="totallyTimeSpent" value="49641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="76" y="20" width="1280" height="728" extended-state="0" />
@@ -1130,7 +1139,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JsonTransformer.java</url>
-          <line>14</line>
+          <line>13</line>
           <properties />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
@@ -1589,8 +1598,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JsonTransformer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        <state relative-caret-position="289">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
