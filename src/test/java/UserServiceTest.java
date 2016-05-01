@@ -19,6 +19,7 @@ public class UserServiceTest {
     @org.junit.Before
     public void setUp() throws Exception {
         AppController.main(null);
+
     }
 
     @org.junit.After
